@@ -20,3 +20,19 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0mWesvS9XO0" target="_blank"><img src="http://img.youtube.com/vi/0mWesvS9XO0/0.jpg" 
 alt="赤鬼伯伯 " width="800" height="500" border="10" /></a>
 <br>影片取自 youtube
+
+
+<details>
+<summary>
+
+## 台北智慧城市展
+
+</summary>
+(一)、 展出日期：2024年3月19日（二）至3月22日（五），共4天<br>
+(二)、 展出地點：台北南港展覽館2館（台北市南港區經貿二路2號）<br>
+(三)、 參展區域：<br>
+  
+|物聯網應用(5G AIoT)	| 智慧交通 | 智慧治理 | 智慧建築 |
+|-------------------|---------|----------|---------|
+|智慧安防 | 智慧醫療 | 智慧教育 |  智慧金融 |
+|智慧能源 | 新創	   | AI+專區  |-----------|	
